@@ -42,7 +42,7 @@ h1 {
   cursor: pointer;
   transition: all 0.5s;
 }
-button:hover {
+.container-home a:hover {
   opacity: 0.7;
   background-color: rgba(0, 0, 0, 0.5);
 }
